@@ -4,6 +4,8 @@ Great product teams don't just happen; they require commitment and work.  They a
 
 Imagine a rowing team that has just been assembled.  While each team member has rowing experience, they don't become a team until they resolve who will do which roles and learn how to work together.  This repository contains the internally developed standards that our team will use to ensure we work together toward well understood goals.  This collection is not perfect, and may not even be good, but we will strive to learn and grow as a team and adapt these standards together.
 
+The CSC Team working standards are posted [here](https://github.com/microsoft/csc-standards/wiki).
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
